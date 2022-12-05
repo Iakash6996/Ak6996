@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AQMS", "AQMS\AQMS.csproj", "{B9EBE3DA-DFA5-476F-A25F-0E5282C34C9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Air-sesnor-tests", "Air-sesnor-tests\Air-sesnor-tests.csproj", "{1BB2E38C-778A-4241-B863-03244A47CDF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9EBE3DA-DFA5-476F-A25F-0E5282C34C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9EBE3DA-DFA5-476F-A25F-0E5282C34C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9EBE3DA-DFA5-476F-A25F-0E5282C34C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9EBE3DA-DFA5-476F-A25F-0E5282C34C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BB2E38C-778A-4241-B863-03244A47CDF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB2E38C-778A-4241-B863-03244A47CDF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB2E38C-778A-4241-B863-03244A47CDF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB2E38C-778A-4241-B863-03244A47CDF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DE1008F-8E0C-4DEF-90D2-BDAB847E1353}
+	EndGlobalSection
+EndGlobal
